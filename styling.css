@@ -1,0 +1,23 @@
+body { 
+    background: #D3D3D3; 
+    padding: 5em;
+    height: 100%;
+    
+}
+div{
+	background: #6C8790;
+    padding: 2em;
+    width: 100%;
+}
+li{
+	font-weight:bold;
+}
+a{
+    text-align: left;
+    width: 130px;
+    display: inline-block;
+}
+.content{
+    width: 55%;
+    display: inline-block;
+}
